@@ -1,2 +1,2 @@
-# learngit
-learninggit
+# Learn Git
+Learning Git with eka
